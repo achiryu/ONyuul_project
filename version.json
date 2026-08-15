@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "2.0.0",
   "download_url": "https://github.com/achiryu/ONyuul_project/releases/latest",
-  "notes": "클로즈 베타 기능 추가 (마이크 음소거, 볼륨 조절)"
+  "notes": "UI 대폭 개편 및 DB 암호화"
 }
